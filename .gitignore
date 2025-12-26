@@ -1,0 +1,9 @@
+# Ignorar ambiente virtual
+venv/
+.env
+
+# Ignorar dados pesados ou inúteis pro App
+data/raw/
+__pycache__/
+*.zip
+.ipynb_checkpoints/
